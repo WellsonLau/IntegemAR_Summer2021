@@ -1,0 +1,16 @@
+curPeopleNo=1
+shaderChoice=17
+stageAction=0
+BGdirectory=\images\bg
+BGImageFileName=house.jpg
+BGTxtFile=stage1.bg
+BGTxtChange=stage1.bgc
+Obj1=1
+ObjTxtFile=stage1.obj1
+ObjTxtChange=stage1.objc1
+Obj2=0
+stageChoices=1
+stageFile=stage2.stage
+NextStage=66
+MoveThr=200
+scriptID=0

@@ -1,0 +1,5 @@
+maxPeopleNo=4
+currentFolder=C:\Users\elwel\Desktop\Level 1 Project
+firstStage=stage1.stage
+HDRatio=1,2
+Multiple=1
