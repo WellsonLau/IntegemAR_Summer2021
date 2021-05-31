@@ -1,5 +1,5 @@
-name: "test pokemon"
-description: "content"
-thumbnail: "./thumbnail/stage_15.jpg"
-id: 37657
+name: "Pokemon Adventure"
+description: "Experience the Pokemon World. Make a new friend, battle pokemon, and capture pokemon!"
+thumbnail: "./thumbnail/stage_41.jpg"
+id: 37765
 online: true

@@ -1,0 +1,16 @@
+curPeopleNo=1
+shaderChoice=17
+stageAction=0
+BGdirectory=\images\bg
+BGImageFileName=game_over.jpg
+BGTxtFile=stage25.bg
+BGTxtChange=stage25.bgc
+Obj1=1
+ObjTxtFile=stage25.obj1
+ObjTxtChange=stage25.objc1
+Obj2=0
+stageChoices=1
+stageFile=stage01.stage
+NextStage=105
+MoveThr=200
+scriptID=33
