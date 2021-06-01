@@ -1,0 +1,5 @@
+maxPeopleNo=3
+currentFolder=C:\Users\elwel\Desktop\IntegemAR_Summer2021\test
+firstStage=stage1.stage
+HDRatio=1,2
+Multiple=1

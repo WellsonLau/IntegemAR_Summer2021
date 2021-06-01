@@ -22,6 +22,6 @@ stageFile=stage17.stage
 NextStage=105
 MoveThr=200
 stageFile=stage19.stage
-NextStage=62
+NextStage=61
 MoveThr=200
 scriptID=26

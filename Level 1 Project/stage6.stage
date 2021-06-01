@@ -16,5 +16,5 @@ Obj2=0
 stageChoices=1
 stageFile=stage7.stage
 NextStage=11
-NextStageTime=60
+NextStageTime=90
 scriptID=9

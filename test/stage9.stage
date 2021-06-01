@@ -1,0 +1,15 @@
+curPeopleNo=1
+shaderChoice=17
+stageAction=0
+BGdirectory=\images\bg
+BGImageFileName=pokemon_world.jpg
+BGTxtFile=stage9.bg
+BGTxtChange=stage9.bgc
+Obj1=1
+ObjTxtFile=stage9.obj1
+ObjTxtChange=stage9.objc1
+Obj2=0
+stageChoices=1
+stageFile=stage01.stage
+NextStage=51
+scriptID=10

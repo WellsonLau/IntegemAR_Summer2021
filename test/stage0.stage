@@ -1,0 +1,8 @@
+curPeopleNo=0
+shaderChoice=0
+stageAction=0
+stageChoices=1
+stageFile=stage1.stage
+NextStage=11
+NextStageTime=30
+scriptID=2

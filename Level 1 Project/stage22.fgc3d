@@ -1,14 +1,14 @@
 foregroundNo=0
 No=1
 ChgCtr=1
-TimeCh=60
+TimeCh=45
 StepOrEnd=1
 x0=0
 y0=0
 width=640
 height=640
-initialx=-420.16
-initialy=315.09
+initialx=-273.09
+initialy=350.49
 initialscalex=0.42
 initialscaley=0.42
 initialalpha=1
