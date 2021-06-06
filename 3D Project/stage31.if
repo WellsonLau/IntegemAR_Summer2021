@@ -1,0 +1,13 @@
+TagName=stage31
+ThenStageName=stage32.stage
+ElseStageName=stage24.stage
+GroupNum=1
+GroupIndex=1
+GroupLogic=0
+ConditionNum=1
+ConditionType=1
+GoodyName=Goody1
+GoodyMethod=0
+Threshold=0
+CompareMethod=4
+Logic=0

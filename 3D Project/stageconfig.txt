@@ -1,0 +1,6 @@
+maxPeopleNo=1
+currentFolder=C:\Users\elwel\Desktop\IntegemAR_Summer2021\3D Project
+firstStage=stage1.stage
+RunMode=3D
+HDRatio=1,2
+Multiple=2

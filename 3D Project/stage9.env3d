@@ -1,0 +1,12 @@
+CameraPosX=0
+CameraPosY=10
+CameraPosZ=100
+CameraXRotAngle=0
+CameraYRotAngle=0
+CameraXRotRate=0
+CameraYRotRate=0
+AmbientColorR=255
+AmbientColorG=255
+AmbientColorB=255
+AmbientColorA=1
+ClockRate=1
